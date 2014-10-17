@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mmr:home|Door43 (mmr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mmr|d43-mmr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mmr/archive/master.zip|d43-mmr.zip]]
+
+**Recent Changes**
+{{changes>ns = mmr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mmr|Ethnologue data]]
+
